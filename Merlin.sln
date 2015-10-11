@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merlin", "listener\Merlin.csproj", "{43E929D4-FDE4-4740-B353-839B8AB7A069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{EC4403C5-1777-4B56-8FC4-193C805667FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E929D4-FDE4-4740-B353-839B8AB7A069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E929D4-FDE4-4740-B353-839B8AB7A069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E929D4-FDE4-4740-B353-839B8AB7A069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E929D4-FDE4-4740-B353-839B8AB7A069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4403C5-1777-4B56-8FC4-193C805667FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4403C5-1777-4B56-8FC4-193C805667FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4403C5-1777-4B56-8FC4-193C805667FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4403C5-1777-4B56-8FC4-193C805667FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
